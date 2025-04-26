@@ -6,7 +6,7 @@
 ;; URL: https://github.com/007kevin/pdf-view-restore
 ;; Keywords: files convenience
 ;; Version: 0.1
-;; Package-Requires: ((pdf-tools "0.90") (emacs "26.0"))
+;; Package-Requires: ((pdf-tools "0.900001") (emacs "26.0"))
 
 ;; This file is NOT part of GNU Emacs.
 
